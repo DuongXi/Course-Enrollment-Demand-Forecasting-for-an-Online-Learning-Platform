@@ -7,6 +7,7 @@ This project builds an enrollment forecasting system for educational data using 
 - Predict student enrollment trends over time
 - Use feature engineering and time-series modeling
 - Provide a simple API and web interface
+- More detail in: [Report.pdf](https://github.com/DuongXi/Course-Enrollment-Demand-Forecasting-for-an-Online-Learning-Platform/blob/main/Report.pdf)
 
 ## Project Structure
 
